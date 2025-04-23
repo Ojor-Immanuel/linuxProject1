@@ -1,0 +1,4 @@
+#!/bin/bash
+mkdir -p ~/project
+mkdir ~/project/docs ~/project/src ~/project/tests 
+touch README.md > ~/project/docs ~/project/src ~/project/src
